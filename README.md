@@ -35,3 +35,4 @@ class Teacher extends People{
 super(name, age, number, sex);
 ……………………………………………………………………………………
 ##实验结果
+https://github.com/Chives-Meow/java2/blob/main/n1.png
