@@ -37,5 +37,5 @@ super(name, age, number, sex);
 ##实验结果
 ![image](https://github.com/Chives-Meow/java2/blob/main/n1.png)
 根据提示，输入学生学号，模拟系统根据序号匹配学生信息
-
+![image](https://github.com/Chives-Meow/java2/blob/main/p2.png)
 匹配成功直接输出选课信息
